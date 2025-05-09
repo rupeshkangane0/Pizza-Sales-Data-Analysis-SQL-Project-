@@ -48,6 +48,6 @@ Canva – Used to create an engaging and easy-to-follow visual report.
 CSV Dataset – Used as the base data source for queries.
 
 # 📊 Visual Presentation
-To make the insights easier to understand, I also created a presentation on Canva with visuals like charts and summary slides. This complements the SQL analysis and makes it easier for non-technical audiences to grasp the findings.
+To make the insights easier to understand, I also created a presentation on Canva with visuals slides. This complements the SQL analysis and makes it easier for non-technical audiences to grasp the findings.
 ![image](https://github.com/user-attachments/assets/9cf4bbb8-a0e2-4ab5-8cce-29dd88ca9f69)
 
