@@ -38,14 +38,6 @@ Analysed how revenue has grown over time to observe trends and spikes.
 
 Determined the top three pizzas based on revenue within each pizza category.
 
-# 🧰 Tools Used
-SQL – Used for querying and analysing the dataset.
-
-SQLite / PostgreSQL / MySQL – Any relational database (based on setup).
-
-Canva – Used to create an engaging and easy-to-follow visual report.
-
-CSV Dataset – Used as the base data source for queries.
 
 # 📊 Visual Presentation
 To make the insights easier to understand, I also created a presentation on Canva with visuals slides. This complements the SQL analysis and makes it easier for non-technical audiences to grasp the findings.
